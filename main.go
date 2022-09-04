@@ -9,7 +9,7 @@ import (
 	"github.com/grpc-ecosystem/grpc-gateway/v2/runtime"
 	"google.golang.org/grpc"
 
-	hellopb "guthub.com/bigpel66/grpc-gateway-test/proto/hello"
+	hellopb "github.com/bigpel66/grpc-gateway-test/proto/hello"
 )
 
 type server struct {
